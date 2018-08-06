@@ -293,6 +293,7 @@ public class Claim {
   }
 
   public function Finish() {
+    Thread.sleep(500);
     Application.ClickButton("FNOLWizard:Finish")
   }
 }
