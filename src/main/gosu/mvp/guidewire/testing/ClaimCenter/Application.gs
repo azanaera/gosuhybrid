@@ -18,7 +18,8 @@ uses org.openqa.selenium.support.ui.WebDriverWait
 
 public class Application {
   private static var _driver : WebDriver
-	private var _baseurl : String = "http://72.52.222.78:8080/cc/ClaimCenter.do"
+//  private var _baseurl : String = "http://72.52.222.78:8080/cc/ClaimCenter.do"
+  private var _baseurl : String = "http://localhost:8080/cc/ClaimCenter.do"
 //	private final String _baseurl = "http://10.90.140.53:8180/pc/PolicyCenter.do"
   private static var _actions : Actions
   private static var _wait : WebDriverWait

@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/gosu" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/gosu" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/src/test/gosu/example" />
+      <excludeFolder url="file://$MODULE_DIR$/src/test/java" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
